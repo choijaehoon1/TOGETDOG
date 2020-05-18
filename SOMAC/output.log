@@ -1,0 +1,5 @@
+2020-04-07 18:25:05,123 DEBUG [main] cmn.ConnectionMaker (ConnectionMaker.java:76)     - ===================
+2020-04-07 18:25:05,127 DEBUG [main] cmn.ConnectionMaker (ConnectionMaker.java:77)     - SQLException=Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+ 
+2020-04-07 18:25:05,127 DEBUG [main] cmn.ConnectionMaker (ConnectionMaker.java:78)     - ===================
