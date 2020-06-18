@@ -3,7 +3,7 @@
 
 ### 1. 조이름/프로젝트명
 ```
-TOGETDOG: SOMAC
+TOGETDOG : SOMAC
 ```
 ### 2. 담당업무
 ```
