@@ -49,11 +49,11 @@ TOGETDOG : SOMAC
 ### 6. 개발아키텍처 : MVC
 ![MVC](https://github.com/choijaehoon1/TOGETDOG/blob/master/SOMAC/src/MVC.png "이미지설명")
 
-### 7. 단위테스트
-![단위테스트](https://github.com/choijaehoon1/TOGETDOG/blob/master/SOMAC/src/%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8.png "이미지설명")
-
-### 8. 테이블정의서
+### 7. 테이블정의서
 ![테이블정의서](https://github.com/choijaehoon1/TOGETDOG/blob/master/SOMAC/src/%ED%85%8C%EC%9D%B4%EB%B8%94%EC%A0%95%EC%9D%98%EC%84%9C.png "이미지설명")
+
+### 8. 단위테스트
+![단위테스트](https://github.com/choijaehoon1/TOGETDOG/blob/master/SOMAC/src/%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8.png "이미지설명")
 
 ### 9. 개발환경
 ![개발환경](https://github.com/choijaehoon1/TOGETDOG/blob/master/SOMAC/src/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.png "이미지설명")
